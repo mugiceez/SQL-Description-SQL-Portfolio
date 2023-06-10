@@ -1,0 +1,17 @@
+CREATE TABLE store (id INTEGER PRIMARY KEY, item TEXT, quantity INTEGER, price INTEGER, brand TEXT);
+
+INSERT INTO store VALUES (1, "board", 23, 45, "Welcome");
+INSERT INTO store VALUES (2, "wheels", 10, 40, "spitfire");
+INSERT INTO store VALUES (3, "trucks", 12, "venture", 30);
+INSERT INTO store VALUES (4, "grip", 50, "mob", 5);
+INSERT INTO store VALUES (5, "grip", 14, "grizzly", 10);
+INSERT INTO store VALUES  (6, "board", 8, "primitive", 45);
+INSERT INTO store VALUES (7, "board", 5, "enjoy", 35);
+INSERT INTO store VALUES (8, "wheels", 7, "bones", 25);
+INSERT INTO store VALUES (9, "board", 3, "deathwish", 29);
+INSERT INTO store VALUES (10, "board", 19, "dgk", 55);
+INSERT INTO store VALUES (11, "board", 13, "plan B", 60);
+INSERT INTO store VALUES (12, "board", 17, "real", 56);
+INSERT INTO store VALUES (13, "board", 18, "skate mafia", 30);
+INSERT INTO store VALUES (14, "wax", 30, "dgk", 7);
+INSERT INTO store VALUES (15, "berrings", 31, "reds", 20)
